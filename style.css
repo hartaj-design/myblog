@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    color: aqua;
+}
+p {
+    font-size: 70px;
+}
+img {
+    height: 250px;
+    width: 250px;
+}
+
+ #Welcome {
+     height: 400px;
+     z-index: 9;
+     margin-top: 100px;
